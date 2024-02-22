@@ -1,0 +1,1 @@
+urllib.request.urlretrieve("https://ivaskopon.github.io/vzryv.mp3", "vzryv.mp3")
